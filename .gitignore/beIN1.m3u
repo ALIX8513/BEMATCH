@@ -1,7 +1,4 @@
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,===beIN SPORTS Sports HD===
-http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/2.ts
-#EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,beIN SPORTS 1 HD
 http://janiptv.com:8888/live/andrsports05223/AndrTVIPTV775288/3.ts
 #EXTVLCOPT:http-user-agent=janberyan.com
